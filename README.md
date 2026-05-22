@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Review Backend API
+ # 🍽️ Restaurant Review Backend API
 
 <div align="center">
 
@@ -247,21 +247,7 @@ Content-Type: application/json
 * File Upload
 * Exception Handling
 
----
-
-# 📸 Screenshots
-
-(Add screenshots here)
-
----
-
-# 📈 Future Improvements
-
-* Swagger documentation
-* Role-based access
-* Better search filters
-* CI/CD pipeline
-
+د
 ---
 
 # 👨‍💻 Author
